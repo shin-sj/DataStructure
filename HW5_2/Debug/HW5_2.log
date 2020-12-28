@@ -1,0 +1,21 @@
+﻿  HW5_2.c
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW10\HW5_2\HW5_2.c(7,52): warning C4273: 'fopen': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208,28): message : 'fopen'의 이전 정의를 참조하십시오.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW10\HW5_2\HW5_2.c(8,25): warning C4273: 'fclose': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(147,26): message : 'fclose'의 이전 정의를 참조하십시오.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW10\HW5_2\HW5_2.c(65,20): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'HeapType **'입니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW10\HW5_2\HW5_2.c(66,11): warning C4133: '함수': 'FILE *'과(와) 'const char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW10\HW5_2\HW5_2.c(57,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW10\HW5_2\HW5_2.c(65,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW10\HW5_2\HW5_2.c(66,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW10\HW5_2\HW5_2.c(58,6): warning C4101: 'number' :참조되지 않은 지역 변수입니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW10\HW5_2\HW5_2.c(87,15): warning C4477: 'fprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW10\HW5_2\HW5_2.c(73,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW10\HW5_2\HW5_2.c(79,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW10\HW5_2\HW5_2.c(101,19): warning C4133: '함수': 'char *'과(와) 'FILE *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW10\HW5_2\HW5_2.c(101,21): warning C4477: 'fprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW10\HW5_2\HW5_2.c(94,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW10\HW5_2\HW5_2.c(111,6): warning C4013: 'init'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW10\HW5_2\HW5_2.c(97): warning C4700: 초기화되지 않은 'heap' 지역 변수를 사용했습니다.
+HW5_2.obj : error LNK2019: _init_main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW10\Debug\HW5_2.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

@@ -1,0 +1,8 @@
+﻿  HW6_2_1a.c
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW11\HW6_2_1a\HW6_2_1a.c(26,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW11\HW6_2_1a\HW6_2_1a.c(33,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW11\HW6_2_1a\HW6_2_1a.c(34,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW11\HW6_2_1a\HW6_2_1a.c(24,6): warning C4101: 'number' :참조되지 않은 지역 변수입니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW11\HW6_2_1a\HW6_2_1a.c(62,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW11\HW6_2_1a\HW6_2_1a.c(56,6): warning C4101: 'u' :참조되지 않은 지역 변수입니다.
+  HW6_2_1a.vcxproj -> C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW11\Debug\HW6_2_1a.exe

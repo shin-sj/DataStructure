@@ -1,0 +1,4 @@
+﻿  HW1_1.c
+C:\Users\82105\Desktop\LABHW4\HW1_1\HW1_1.c(70,10): warning C4013: 'Delete'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82105\Desktop\LABHW4\HW1_1\HW1_1.c(77): warning C4716: 'delete_by_key': 값을 반환해야 합니다.
+  HW1_1.vcxproj -> C:\Users\82105\Desktop\LABHW4\Debug\HW1_1.exe

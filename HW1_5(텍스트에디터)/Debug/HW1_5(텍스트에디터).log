@@ -1,0 +1,7 @@
+﻿  HW1_5(텍스트에디터).c
+C:\Users\82105\Desktop\LABHW6\HW1_5(텍스트에디터)\HW1_5(텍스트에디터).c(201,35): warning C4013: 'malloce'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82105\Desktop\LABHW6\HW1_5(텍스트에디터)\HW1_5(텍스트에디터).c(244,3): warning C4033: 'get_entry'은(는) 값을 반환해야 합니다.
+C:\Users\82105\Desktop\LABHW6\HW1_5(텍스트에디터)\HW1_5(텍스트에디터).c(269,14): warning C4013: 'delete_next'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82105\Desktop\LABHW6\HW1_5(텍스트에디터)\HW1_5(텍스트에디터).c(274,12): error C2040: 'delete_next': 'ListNode *(ListNode *,ListNode *)'의 간접 참조 수준이 'int ()'과(와) 다릅니다.
+C:\Users\82105\Desktop\LABHW6\HW1_5(텍스트에디터)\HW1_5(텍스트에디터).c(335,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\LABHW6\HW1_5(텍스트에디터)\HW1_5(텍스트에디터).c(339): fatal error C1075: '{': 일치하는 토큰을 찾을 수 없습니다.

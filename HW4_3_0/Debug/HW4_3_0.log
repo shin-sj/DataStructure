@@ -1,0 +1,12 @@
+﻿  HW4_3_0.c
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW9\HW4_3_0\HW4_3_0.c(156,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW9\HW4_3_0\HW4_3_0.c(118,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW9\HW4_3_0\HW4_3_0.c(122,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW9\HW4_3_0\HW4_3_0.c(130,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW9\HW4_3_0\HW4_3_0.c(132,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW9\HW4_3_0\HW4_3_0.c(134,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW9\HW4_3_0\HW4_3_0.c(136,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW9\HW4_3_0\HW4_3_0.c(142,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW9\HW4_3_0\HW4_3_0.c(147,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW9\HW4_3_0\HW4_3_0.c(169,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HW4_3_0.vcxproj -> C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW9\Debug\HW4_3_0.exe

@@ -1,0 +1,10 @@
+﻿  HW6_3_1.c
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW12\HW6_3_1\HW6_3_1.c(29,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW12\HW6_3_1\HW6_3_1.c(36,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW12\HW6_3_1\HW6_3_1.c(38,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW12\HW6_3_1\HW6_3_1.c(27,7): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW12\HW6_3_1\HW6_3_1.c(55,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  minheap.c
+  unionfind.c
+  코드를 생성하고 있습니다...
+  HW6_3_1.vcxproj -> C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\LABHW12\Debug\HW6_3_1.exe

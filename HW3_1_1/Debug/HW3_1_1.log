@@ -1,0 +1,20 @@
+﻿  HW3_1_1.c
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\3주차\HW3_1_1\HW3_1_1.c(71,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\3주차\HW3_1_1\HW3_1_1.c(85,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\3주차\HW3_1_1\HW3_1_1.c(107,14): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\3주차\HW3_1_1\HW3_1_1.c(107,14): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\3주차\HW3_1_1\HW3_1_1.c(107,14): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\3주차\HW3_1_1\HW3_1_1.c(107,14): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\3주차\HW3_1_1\HW3_1_1.c(113,24): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\3주차\HW3_1_1\HW3_1_1.c(113,24): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\3주차\HW3_1_1\HW3_1_1.c(113,24): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\3주차\HW3_1_1\HW3_1_1.c(113,24): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\3주차\HW3_1_1\HW3_1_1.c(116,24): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\3주차\HW3_1_1\HW3_1_1.c(116,24): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\3주차\HW3_1_1\HW3_1_1.c(116,24): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\3주차\HW3_1_1\HW3_1_1.c(116,24): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\3주차\HW3_1_1\HW3_1_1.c(130,19): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\3주차\HW3_1_1\HW3_1_1.c(130,19): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\3주차\HW3_1_1\HW3_1_1.c(130,19): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\3주차\HW3_1_1\HW3_1_1.c(130,19): message : 이 인수는 버퍼 크기로 사용됩니다.
+  HW3_1_1.vcxproj -> C:\Users\82105\Desktop\2020-2학기\자료구조\자료구조_실습\3주차\Debug\HW3_1_1.exe

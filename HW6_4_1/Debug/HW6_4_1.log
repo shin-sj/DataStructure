@@ -1,0 +1,6 @@
+﻿  HW6_4_1.c
+C:\Users\82105\Desktop\자료구조(2-2\LABHW13\HW6_4_1\HW6_4_1.c(36,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\자료구조(2-2\LABHW13\HW6_4_1\HW6_4_1.c(40,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\자료구조(2-2\LABHW13\HW6_4_1\HW6_4_1.c(42,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82105\Desktop\자료구조(2-2\LABHW13\HW6_4_1\HW6_4_1.c(43,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HW6_4_1.vcxproj -> C:\Users\82105\Desktop\자료구조(2-2\LABHW13\Debug\HW6_4_1.exe
